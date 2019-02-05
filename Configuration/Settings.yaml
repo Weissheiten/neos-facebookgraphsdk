@@ -1,0 +1,7 @@
+Weissheiten:
+  Neos:
+    FacebookGraphSDK:
+      app_id: '--- your app_id here ---'
+      app_secret: '--- your app_secret here---'
+      default_graph_version: 'v2.10'
+      default_access_token: '--- optional ---'

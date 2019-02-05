@@ -1,0 +1,17 @@
+{
+  "name": "weissheiten/neos-facebookgraphsdk",
+  "type": "neos-package",
+  "description": "A wrapper for the Facebook SDK for PHP for easy usage in your own Neos CMS plugin.",
+  "license": "MIT",
+  "require": {
+    "neos/flow": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Weissheiten\\Neos\\FacebookGraphSDK": "Classes"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.5"
+  }
+}
